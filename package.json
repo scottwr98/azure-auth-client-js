@@ -1,6 +1,6 @@
 {
-  "name": "azure-auth-client-alpha",
-  "version": "0.0.19",
+  "name": "azure-auth-client-fork",
+  "version": "0.0.91",
   "description": "An Azure auth client.",
   "main": "lib/azure-auth-client.js",
   "scripts": {
@@ -36,7 +36,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mike706574/js-azure-auth-client.git"
+    "url": "https://github.com/scottwr98/azure-auth-client-js.git"
   },
   "author": "Michael Easter",
   "license": "MIT",
