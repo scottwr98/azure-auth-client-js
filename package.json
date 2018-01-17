@@ -1,5 +1,5 @@
 {
-  "name": "azure-auth-client-fork2",
+  "name": "azure-auth-client-fork3",
   "version": "0.0.55",
   "description": "An Azure auth client.",
   "main": "lib/azure-auth-client.js",

@@ -132,7 +132,6 @@ export default class AdalAuthClient {
       config.redirectUri = config.redirectUri || window.location.origin;
 
       if(!config.extraQueryParameter) {
-        struct.requiredString(config, 'auth config');
         if(config.domain) 
           config.extraQueryParameter = `nux=1&domain_hint=${config.domain}`
         else
