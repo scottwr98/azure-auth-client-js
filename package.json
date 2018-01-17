@@ -1,6 +1,6 @@
 {
   "name": "azure-auth-client-fork",
-  "version": "0.0.91",
+  "version": "0.0.92",
   "description": "An Azure auth client.",
   "main": "lib/azure-auth-client.js",
   "scripts": {
